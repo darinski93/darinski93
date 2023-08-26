@@ -1,6 +1,4 @@
-<a href="https://darinski93.github.io/dariospetrovccv.github.io/" style="display: inline-block;">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/22b22287602523.5dbd29081561d.gif" alt="MasterHead" style="max-height: 100px; width: auto;">
-</a>
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/22b22287602523.5dbd29081561d.gif)](https://darinski93.github.io/dariospetrovccv.github.io/)
 
 <h1 align="center">Hi 👋, I'm Darios Petrov</h1>
 <h3 align="center">Rookie Frontend Developer</h3>
