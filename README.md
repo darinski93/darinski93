@@ -4,13 +4,12 @@
 <h3 align="center">Rookie Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47lmzzi6qs6sbdspt1wrbjdlsgwxpwrsq2i8hg7eww&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 📫 How to reach me **darios.petrov93@gmail.com**
-
 - 📄 Know about my experiences [https://darinski93.github.io/dariospetrovccv.github.io/](https://darinski93.github.io/dariospetrovccv.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/darios-petrov-1a4999182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darios-petrov-1a4999182" height="30" width="40" /></a>
+<a align="left" href="https://bg.linkedin.com/in/darios-petrov-1a4999182" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logo-linkedin" height="30" width="40"/></a>
+<a align= "left" href="mailto:darios.petrov93@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
