@@ -1,5 +1,4 @@
 [![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)](https://darinski93.github.io/dariospetrovccv.github.io/)
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h1 align="center">Hi 👋, I'm Darios Petrov</h1>
 <h3 align="center">Rookie Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
