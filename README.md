@@ -1,7 +1,8 @@
-[![MasterHead]([https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg](https://i.ytimg.com/vi/yP2FZNP6eZk/maxresdefault.jpg))](https://darinski93.github.io/dariospetrovccv.github.io/)
+[![MasterHead](https://i.ytimg.com/vi/yP2FZNP6eZk/maxresdefault.jpg)](https://darinski93.github.io/dariospetrovccv.github.io/)
+<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h1 align="center">Hi 👋, I'm Darios Petrov</h1>
 <h3 align="center">Rookie Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src=" https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47zg94pouqvnqjm3tkrtjhxzbygm2sy3ojqjrswgc2&ep=v1_gifs_search&rid=giphy.gif&ct=g ">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47lmzzi6qs6sbdspt1wrbjdlsgwxpwrsq2i8hg7eww&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 📫 How to reach me **darios.petrov93@gmail.com**
 
